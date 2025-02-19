@@ -5,6 +5,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,aws,nodejs,bun,graphql,github,git,docker,go,nuxtjs,swift,vue,mongodb,electron" alt="My Skills" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/feed/](https://www.linkedin.com/in/zacharias-traianos-77176b92/)" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/zacharias-traianos-77176b92/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
 </a>
